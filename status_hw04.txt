@@ -1,0 +1,40 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Seokju Yun (daniel)
+
+2. What hostname did you deploy your app to?
+hw04.danyun.me
+
+3. What's the URL of your git for this assignment?
+https://github.com/daseyun/cs4550-hw04
+
+4. How much of the functionality did you complete?
+all 
+
+5. Did you successfully deploy? If not, what's broken?
+yes. 
+
+6. How comfortable do you feel with Elixir now?
+medium. struggled a lot until it clicked. 
+
+7. Which parts of this assignment did you have trouble with, if any?
+Biggest hurdle for me was wrapping my head aroud to solve the problems recursively. 
+case / cond was a little difficult to understand in the beginning. 
+-> had no idea how to implement tag_token / infix_to_postfix until extensive playtesting in iex. 
+(even though I understood the pseudocode)
+being able to pattern match within the function's parameter's as well as pattern matching empty list 
+was surprisingly confusing and undocumented. 
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
